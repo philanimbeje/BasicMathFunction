@@ -1,6 +1,0 @@
-C:\Users\Dev_WorkSpace\Documents\Visual Studio 2017\Programs\BasicMathFunctions\BasicMathFunctions\bin\Debug\BasicMathFunctions.dll
-C:\Users\Dev_WorkSpace\Documents\Visual Studio 2017\Programs\BasicMathFunctions\BasicMathFunctions\bin\Debug\BasicMathFunctions.pdb
-C:\Users\Dev_WorkSpace\Documents\Visual Studio 2017\Programs\BasicMathFunctions\BasicMathFunctions\obj\Debug\BasicMathFunctions.csprojResolveAssemblyReference.cache
-C:\Users\Dev_WorkSpace\Documents\Visual Studio 2017\Programs\BasicMathFunctions\BasicMathFunctions\obj\Debug\BasicMathFunctions.csproj.CoreCompileInputs.cache
-C:\Users\Dev_WorkSpace\Documents\Visual Studio 2017\Programs\BasicMathFunctions\BasicMathFunctions\obj\Debug\BasicMathFunctions.dll
-C:\Users\Dev_WorkSpace\Documents\Visual Studio 2017\Programs\BasicMathFunctions\BasicMathFunctions\obj\Debug\BasicMathFunctions.pdb
